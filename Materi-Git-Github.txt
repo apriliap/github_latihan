@@ -16,6 +16,8 @@ Push    : komputer akan mengirimkan source code ke github
 Pull    : mengambil source code/ repo digithub ke komputer
 Clone   : mengambil repo dari remote
 
-*syarat push&pull digithub
+* syarat push&pull digithub
 harus membuat github menjadi remote, yaitu sumber dari Repo kita 
 - komputer install git > repo digithub > clone > repo masuk di komputer
+
+~ MELIHAT PERUBAHAN FILE DI GITHUB ~
