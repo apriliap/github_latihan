@@ -30,7 +30,9 @@ Di history
 - 2 orang mengerjakan repo yang sama atau satu tim, dan akan dibikin cabang A dan B kemudian diakhir akan digabungkan kembali dengan melakukan merge
 
 ~ MEMBUAT FITUR BARU KEDEPANNYA, DITERAPKAN ATAU TIDAK ~
-2 langkah cara branch : 
-langkah 1 :
-- klik master/main( pojok kiri atas)
+
+2 langkah cara branch :
+langkah 1
+- klik master/main ( pojok kiri atas )
+
 
