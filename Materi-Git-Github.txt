@@ -1,0 +1,21 @@
+
+****GIT****
+Adalah sebuah VCS(Version Control System) atau software yang mengelolah perubahan file didalam folder(Repo)
+sedangkan VCS yaitu mengelolah perubahan dari sebuah dokumen berupa : file, source code, website
+
+****VCS****
+- sistem yang menyimpan perubahan rekaman/snapshot perubahan source code
+- memungkinkan bekerja berkolaborasi dengan baik
+- kita dapat kembali keadaan sebelum perubahan (ketika di source code ada fitur baru yang tidak cocok maka kita bisa kembali/ checkout)
+- mengetahui perubahan siapa dan kapan dilakukan
+
+Commit  : git akan menyimpan perubahan/ rekaman dari repo
+Branch  : cabang dari sebuah commit
+Merge   : cabang/ fitur baru mau dipakai, dan untuk ditanam kembali kejalur utama menggabungkan 2 branch
+Push    : komputer akan mengirimkan source code ke github
+Pull    : mengambil source code/ repo digithub ke komputer
+Clone   : mengambil repo dari remote
+
+*syarat push&pull digithub
+harus membuat github menjadi remote, yaitu sumber dari Repo kita 
+- komputer install git > repo digithub > clone > repo masuk di komputer
