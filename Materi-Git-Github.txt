@@ -21,3 +21,14 @@ harus membuat github menjadi remote, yaitu sumber dari Repo kita
 - komputer install git > repo digithub > clone > repo masuk di komputer
 
 ~ MELIHAT PERUBAHAN FILE DI GITHUB ~
+Di history
+
+****BRANCH****
+- di branch dapat membuat cabang yang independen/ bisa jalan dengan commitnya sendiri
+- membuat cabang ini digunakan pada saaat anda akan membuat fitur baru, tanpa mengubah jalur utama
+- dalam satu repo dapat membuat beberapan Branch
+- 2 orang mengerjakan repo yang sama atau satu tim, dan akan dibikin cabang A dan B kemudian diakhir akan digabungkan kembali dengan melakukan merge
+
+~ MEMBUAT FITUR BARU KEDEPANNYA, DITERAPKAN ATAU TIDAK ~
+2 langkah cara branch : 
+
