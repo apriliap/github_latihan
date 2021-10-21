@@ -31,4 +31,6 @@ Di history
 
 ~ MEMBUAT FITUR BARU KEDEPANNYA, DITERAPKAN ATAU TIDAK ~
 2 langkah cara branch : 
+langkah 1 :
+- klik master/main( pojok kiri atas)
 
